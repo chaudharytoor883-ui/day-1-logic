@@ -1,0 +1,7 @@
+START
+Marks = 55
+If marks >= 33 
+  Print Pass
+Else 
+  Print Fail
+END
